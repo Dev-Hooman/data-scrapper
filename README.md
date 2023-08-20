@@ -14,7 +14,7 @@ The Data Scraper GUI Application is a tool that allows users to fetch and scrape
 
 
 
-### Data fetched from API
+## Data fetched from API
 ![image](https://github.com/Dev-Hooman/data-scrapper/assets/80707427/7494540b-cc1f-4771-8939-5f07c0470a3a)
 
 
@@ -47,19 +47,14 @@ The Data Scraper GUI Application simplifies the process of data scraping from we
 ## Installation
 
 1. Clone this repository to your local machine:
-
    ```bash
    git clone https://github.com/your-username/data-scraper-gui.git
    cd data-scraper-gui
-
-
 ## Usage
 
 1. Run the application by executing the following command:
-
    ```bash
       python run.py
-
 2. The graphical user interface (GUI) will open. Here's how to use the application:
 
 - Choose the data source by selecting "API" or "Web".
