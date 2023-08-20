@@ -53,8 +53,8 @@ The Data Scraper GUI Application simplifies the process of data scraping from we
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/data-scraper-gui.git
-   cd data-scraper-gui
+   git clone https://github.com/your-username/data-scraper.git
+   cd data-scraper
 ## Usage
 
 1. Run the application by executing the following command:
