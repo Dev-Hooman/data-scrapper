@@ -7,16 +7,21 @@ The Data Scraper GUI Application is a tool that allows users to fetch and scrape
 ## Preview
 
 ## Data Scrapped from Web (Based on Written Code from specific website)
-![image](https://github.com/Dev-Hooman/data-scrapper/assets/80707427/c7298b25-505f-46d3-be7e-f541b1eccc9a)
+<p align="center">
+   <img src="https://github.com/Dev-Hooman/data-scrapper/assets/80707427/c7298b25-505f-46d3-be7e-f541b1eccc9a" alt="from web" />
+</p>
 
-## Scrapped Data in JSON:
-![snippetshot-20_08_2023](https://github.com/Dev-Hooman/data-scrapper/assets/80707427/f49df615-b9f6-44f8-8ec6-36aa8f619f5e)
+## Scrapped Data in JSON:
 
-
+<p align="center">
+   <img src="https://github.com/Dev-Hooman/data-scrapper/assets/80707427/653f943b-db99-4e7f-aa1b-705234ccfbc2" alt="JSON show case" />
+</p>
 
 ## Data fetched from API
-![image](https://github.com/Dev-Hooman/data-scrapper/assets/80707427/7494540b-cc1f-4771-8939-5f07c0470a3a)
 
+<p align="center">
+      <img src="https://github.com/Dev-Hooman/data-scrapper/assets/80707427/7494540b-cc1f-4771-8939-5f07c0470a3a" alt="from API" />
+</p>
 
 
 
