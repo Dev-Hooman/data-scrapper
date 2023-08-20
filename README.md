@@ -1,5 +1,7 @@
 # Data Scraper GUI Application
 
+Empower your web scraping needs by leveraging the versatility of this tool. While the provided code demonstrates scraping from a specific website, users can effortlessly adapt it to harvest data from their preferred web sources.
+
 The Data Scraper GUI Application is a tool that allows users to fetch and scrape data from either an API or a web page. It provides a user-friendly interface to input the source, URL, and desired output format (JSON or CSV) for the scraped data. The application is built using the Python `tkinter` library for the graphical user interface, and it uses `requests` for making HTTP requests, `BeautifulSoup` for web scraping, and `pandas` for handling data.
 
 ## Preview
